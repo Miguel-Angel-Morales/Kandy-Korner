@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.navbar__item {
+    flex-grow: 1;
+    list-style-type: none;
+    text-align: center;
+}
+
+.navbar__logout {
+    margin-left: auto;
+}
